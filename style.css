@@ -12,8 +12,8 @@ border-bottom: 1px solid #A8189F;  margin-top: 30px;}
     {float: left; color: #FFFFFF; text-align: center;
     padding: 14px 16px; text-decoration: none;font-size: 17px;}
     .topnav a:hover
-    {background-color: ##F5A2EF; color: #A8189F;}
+    {background-color: #F5A2EF; color: #A8189F;}
     .topnav a.active
     {background-color: #FFFFFF; color:#A8189F;}
-    footer {border-top:1px solid ##F5A2EF; text-align:center; padding-top: 1em; }
-    footer img {width:40px; height:40px; margin-left:.5em; margin-right: .5em;}: .5em;}
+    footer {border-top:1px solid #F5A2EF; text-align:center; padding-top: 1em; }
+    footer img {width:40px; height:40px; margin-left: .5em; margin-right: .5em;}: 
